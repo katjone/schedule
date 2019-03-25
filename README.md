@@ -6,6 +6,66 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 2 - Javascript!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 9:45am</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-objects">Object Literals and YOU!</a> (BW)</td>
+<td>Review</td>
+</tr>
+
+<tr><td>9:45 - 10:20am</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/computational-thinking">Computational Thinking</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-control-flow">Control Flow</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/dom-manipulation">How to manipulate your DOM</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/oop-in-js">Object-Oriented Programming in JS</a> (BW)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/javascript-koans">Javascript Koans</a> (DH)</td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/computational-thinking-lab">Computational Thinking Lab</a> && <a href="https://git.generalassemb.ly/sf-sei-1/pseudocode">Pseudocode</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-loops-iterators">Loops and Iterators</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/dom-manipulation">How to manipulate your DOM</a> (KB)</td>
+<td>Outcomes (11am - 12:30pm)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging">Chrome Dev Tools (Pt. 1)</a> && <a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging-pt2">Chrome Dev Tools (Pt. 2)</a> (DH)</td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/intro-js">Intro to Javascript</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-functions">Functions</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-events-1">Vanilla Javascript Events</a> (BW)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/oop-in-js">OOP in JS (contd.)</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/week-two-project">Weekend Project</a> (KB)</td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/data-types-and-variables">Datatypes, Variables, Arrays, and You!</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-functions-lab">Lab: Functions</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-events-1">Vanilla Javascript Events (contd.)</a> (BW)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/oop-in-js">OOP in JS (contd.)</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/week-two-project">Weekend Project</a> (KB)</td>
+</tr>
+
+<tr><td>Homework</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/hw-js-and-pseudocode">Javascript and Pseudocode</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-arrays-functions-loops-hw">Arrays, Functions, and Loops</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/js-racer-game-lab">JS Racer</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/hw-js-objects">Object Literals</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/week-two-project">Weekend Project</a></td>
+</tr></tbody></table>
 
 ## Week 1 - HTML & CSS
 <table>
