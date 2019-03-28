@@ -24,7 +24,7 @@
 <td>Morning Exercise</td>
 <td>Morning Exercise</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/js-objects">Object Literals and YOU!</a> (BW)</td>
-<td>Review</td>
+<td>Review (KB)</td>
 </tr>
 
 <tr><td>9:45 - 10:20am</td>
@@ -32,7 +32,7 @@
 <td><a href="https://git.generalassemb.ly/sf-sei-1/js-control-flow">Control Flow</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/dom-manipulation">How to manipulate your DOM</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/oop-in-js">Object-Oriented Programming in JS</a> (BW)</td>
-<td><a href="https://git.generalassemb.ly/sf-sei-1/javascript-koans">Javascript Koans</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging">Chrome Dev Tools (Pt. 1)</a></td>
 </tr>
 
 <tr><td>10:30 - 12:30pm</td>
@@ -40,7 +40,7 @@
 <td><a href="https://git.generalassemb.ly/sf-sei-1/js-loops-iterators">Loops and Iterators</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/dom-manipulation">How to manipulate your DOM</a> (KB)</td>
 <td>Outcomes (11am - 12:30pm)</td>
-<td><a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging">Chrome Dev Tools (Pt. 1)</a> && <a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging-pt2">Chrome Dev Tools (Pt. 2)</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/dev-tools-debugging-pt2">Chrome Dev Tools (Pt. 2)</a> (DH) && <a href="https://git.generalassemb.ly/sf-sei-1/javascript-koans">Javascript Koans</a> (DH)</td>
 </tr>
 
 <tr><td>1:30 - 3:00pm</td>
