@@ -6,6 +6,67 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 3 - JQuery and Javascript!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 9:45am</td>
+<td>Project Presentations</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Morning Exercise</td>
+<td>Review (KB)</td>
+</tr>
+
+<tr><td>9:45 - 11:00am</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-vs-javascript">Javascript vs JQuery</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-playground-lab">JQuery Playground</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-geoquakes-lab">Lab: Geoquakes</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+</tr>
+
+<tr><td>11:00 - 12:30pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-jquery">JQuery </a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/intermediate-jquery">Intermediate JQuery</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-geoquakes-lab">Lab: Geoquakes</a></td>
+<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-events">this & JQuery Events</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-ajax-apis">Ajax and APIs</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-geoquakes-lab">Lab: Geoquakes</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-selector-lab">JQuery Selectors Lab</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/giffaw">Lab: Giffaw</a> (DH)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0 Intro</a> (KB)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+</tr>
+
+<tr><td>Homework</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-monument-landing-page-hw">JQuery Monuments</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/giffaw">Giffaw</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
+</tr></tbody></table>
+
 ## Week 2 - Javascript!
 <table>
 <thead>
