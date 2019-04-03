@@ -39,7 +39,7 @@
 <td><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-jquery">JQuery </a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-playground-lab">JQuery Playground</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-geoquakes-lab">Lab: Geoquakes</a></td>
-<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
 </tr>
 
