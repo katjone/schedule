@@ -99,7 +99,7 @@
 </tr>
 
 <tr><td>1:30 - 3:00pm</td>
-<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-events">this & JQuery Events</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-events">this & JQuery Events</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-ajax-apis">Ajax and APIs</a> (DH)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-geoquakes-lab">Lab: Geoquakes</a></td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
@@ -107,7 +107,7 @@
 </tr>
 
 <tr><td>3:10 - 4:30pm</td>
-<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-selector-lab">JQuery Selectors Lab</a> (IA)</td>
+<td><a href="https://git.generalassemb.ly/sf-sei-1/jquery-selector-lab">JQuery Selectors Lab</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/giffaw">Lab: Giffaw</a> (DH)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0 Intro</a> (KB)</td>
 <td><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0</a></td>
