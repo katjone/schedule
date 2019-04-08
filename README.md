@@ -8,6 +8,18 @@
 
 
 ## Week 4 - Node, Express, & Mongoose!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+  
 <tr><td>9:15 - 10:20am</td>
 <td id="D1M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-00">Project 0 Presentations</a></td>
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/node-express-boilerplate">Express Routes PUT && DELETE</a> (KB)</td>
