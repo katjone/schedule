@@ -32,7 +32,7 @@
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-intro">Express Introduction</a> (DH)</td>
 <td id="D3M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-tdd-todo-api">Express TDD Todo Lab</a> (KB)</td>
 <td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-associations">Mongoose Associations</a> (DH)</td>
-<td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-personal-api">Express Personal API</a>/Outcomes</td>
+<td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Book App Review</a> (KB)/Outcomes</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-wdi-51/project-01">Project 1</a> (KB)</td>
 </tr>
 
