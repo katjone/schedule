@@ -33,7 +33,7 @@
 <td id="D3M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-tdd-todo-api">Express TDD Todo Lab</a> (KB)</td>
 <td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-associations">Mongoose Associations</a> (DH)</td>
 <td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Book App Review</a> (KB)/Outcomes</td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-wdi-51/project-01">Project 1</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a> (KB)</td>
 </tr>
 
 <tr><td>1:30 - 3:00pm</td>
@@ -41,7 +41,7 @@
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-intro">Mongoose Introduction</a> (KB)</td>
 <td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Mongoose Book App Sprint 2+</a> (KB)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-personal-api">Express Personal API</a> (DH)</td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-wdi-51/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
 </tr>
 
 <tr><td>3:10 - 4:30pm</td>
@@ -49,7 +49,7 @@
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-intro">Mongoose Introduction</a> (KB)</td>
 <td id="D4M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Mongoose Book App Sprint 2+</a> (KB)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-personal-api">Express Personal API</a> (DH)</td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-wdi-51/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
 </tr>
 
 <tr><td>Homework</td>
@@ -57,7 +57,7 @@
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Mongoose Book App Sprint 1</a></td>
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/mongoose-book-app">Mongoose Book App Sprint 2+</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/express-personal-api">Express Personal API</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-wdi-51/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
 </tr></tbody></table>
 
 
