@@ -6,6 +6,58 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 5 - Project 1!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 10:20am</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1">Big O Notation</td>
+<td id="D5M1">Recursion</td>
+<td id="D5M1">Intro to Sorting Algorithms</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a> / Outcomes</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a> / Project 1 Presentations</td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1">Project 1 Presentations</td>
+</tr>
+
+<tr><td>Homework</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 1</a></td>
+<td id="D5M1">Recover!!!</td>
+</tr></tbody></table>
 
 ## Week 4 - Node, Express, & Mongoose!
 <table>
