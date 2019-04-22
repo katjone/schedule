@@ -6,6 +6,59 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 6 - React!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 10:20am</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-intro">Intro to React</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-state-and-props">React State & Props</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-component-lifecycle">React Component Life Cycle</a></td>
+<td id="D5M1">Collabathon Cross-Lecture</td>
+<td id="D5M1">Collabathon</td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-intro">Intro to React</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-state-and-props">React State & Props</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-component-lifecycle">React Component Life Cycle</a> / Outcomes</td>
+<td id="D5M1">Collabathon Cross-Lecture</td>
+<td id="D5M1">Collabathon</td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">React Monument Refactor</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters </a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-router-intro">React Router</a></td>
+<td id="D5M1">Collabathon</td>
+<td id="D5M1">Collabathon</td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">React Monument Refactor</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-router-intro">React Router</a></td>
+<td id="D5M1">Collabathon</td>
+<td id="D5M1">Collabathon Presentations</td>
+</tr>
+
+<tr><td>Homework</td>
+<td id="D1M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">Monument Refactor</a></td>
+<td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters</a></td>
+<td id="D3M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-router-intro">React Router</a></td>
+<td id="D4M1">Collabathon</td>
+<td id="D5M1">React</td>
+</tr></tbody></table>
+
 ## Week 5 - Project 1!
 <table>
 <thead>
