@@ -22,7 +22,7 @@
 <tr><td>9:15 - 10:20am</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-intro">Intro to React</a> (DH)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-state-and-props">React State & Props</a> (DH)</td>
-<td id="D5M1">React Review/td>
+<td id="D5M1">React Review</td>
 <td id="D5M1">Collabathon Cross-Lecture</td>
 <td id="D5M1">Collabathon</td>
 </tr>
