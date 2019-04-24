@@ -22,7 +22,7 @@
 <tr><td>9:15 - 10:20am</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-intro">Intro to React</a> (DH)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-state-and-props">React State & Props</a> (DH)</td>
-<td id="D5M1">React Review</td>
+<td id="D5M1">React Review (DH)</td>
 <td id="D5M1">Collabathon Cross-Lecture</td>
 <td id="D5M1">Collabathon</td>
 </tr>
@@ -38,7 +38,7 @@
 <tr><td>1:30 - 3:00pm</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">React Monument Refactor</a> (KB)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters </a> (KB)</td>
-<td id="D5M1">Node Review</td>
+<td id="D5M1">Node Review (KB)</td>
 <td id="D5M1">Collabathon</td>
 <td id="D5M1">Collabathon</td>
 </tr>
@@ -46,7 +46,7 @@
 <tr><td>3:10 - 4:30pm</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">React Monument Refactor</a> (KB)</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters</a> (KB)</td>
-<td id="D5M1">Node Review</td>
+<td id="D5M1">Node Review (KB)</td>
 <td id="D5M1">Collabathon</td>
 <td id="D5M1">Collabathon Presentations</td>
 </tr>
