@@ -53,7 +53,7 @@
 
 <tr><td>Homework</td>
 <td id="D1M1"><a href="https://git.generalassemb.ly/sf-sei-1/monument-react-refactor">Monument Refactor</a></td>
-<td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-counters">React Counters</a></td>
+<td id="D2M1"><a href="https://github.com/kbbushman/sei1-auth-app">Full Stack Node Review</a></td>
 <td id="D3M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-router-intro">React Router</a></td>
 <td id="D4M1">Collabathon</td>
 <td id="D5M1">React</td>
