@@ -52,7 +52,7 @@
 </tr>
 
 <tr><td>Homework</td>
-<td id="D1M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-router-intro">React Router</a></td>
+<td id="D1M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-giphy-lab">React Giphy Lab</a></td>
 <td id="D2M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-geoquakes">React GeoQuakes</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-02">Project 2 Wayfarer</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-02">Project 2 Wayfarer</a></td>
