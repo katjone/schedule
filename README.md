@@ -6,6 +6,59 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 8 - More React!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 10:20am</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 2</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/Json-Web-Tokens">JSON Web Tokens</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 2 Presentations</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/auth-jwt-bcrypt-api">Auth w/JWT</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 2 Feedback</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/react-jwt-authentication">React Auth w/JWT</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-01">Project 2 Feedback</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
+<td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/react-jwt-authentication">React Auth w/JWT</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+</tr>
+
+<tr><td>Homework</td>
+<td id="D5M1"><a href="#">Complete Missing Homework Assignments</a></td>
+<td id="D5M1"><a href="#">Complete Missing Homework Assignments</a></td>
+<td id="D5M1"><a href="#">Complete Missing Homework Assignments</a></td>
+<td id="D5M1"><a href="#">Complete Missing Homework Assignments</a></td>
+<td id="D5M1"><a href="#">Complete Missing Homework Assignments</a></td>
+</tr></tbody></table>
+
 ## Week 7 - React!
 <table>
 <thead>
