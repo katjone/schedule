@@ -24,7 +24,7 @@
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/Json-Web-Tokens">JSON Web Tokens</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-redux-and-state-management">Intro to Redux</a></td>
 </tr>
 
 <tr><td>10:30 - 12:30pm</td>
@@ -32,7 +32,7 @@
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/auth-jwt-bcrypt-api">Auth w/JWT</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-and-redux">Redux</a></td>
 </tr>
 
 <tr><td>1:30 - 3:00pm</td>
@@ -40,7 +40,7 @@
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/react-jwt-authentication">React Auth w/JWT</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/react-and-redux">Redux</a></td>
 </tr>
 
 <tr><td>3:10 - 4:30pm</td>
@@ -48,7 +48,7 @@
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wafarer-server">Async Node/Express</a></td>
 <td id="D5M1"><a href="https://github.com/kbbushman/async-wayfarer-react">Async React w/Hooks</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/SF-WDI/react-jwt-authentication">React Auth w/JWT</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Redux</a></td>
+<td id="D5M1">Mock Networking Event</td>
 </tr>
 
 <tr><td>Homework</td>
