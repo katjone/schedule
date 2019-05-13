@@ -6,6 +6,59 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/welcome-to-wdi">Class Culture/Expectations</a>
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
+## Week 9 - 🐍 Python! 🐍
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 10:20am</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-python-1">Intro to Python</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/state-capitals">Lab: State Capitals</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/psql-install-intro">PSQL Intro</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-django">Intro to Django</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Cat Collectr</a> (DH)</td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/intro-to-python-1">Intro to Python</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/state-capitals">Lab: State Capitals</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/psql-install-intro">PSQL Intro</a>/Outcomes</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/django-models">Django Models/Migrations</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/cat-collectr">Cat Collectr</a> (DH)</td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/lists-ranges">Python Lists & Ranges</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/python-classes">Python OOP</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/sql-airplane-lab">Lab: SQL Airplane</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/django-views-and-templates">Django Views/Templates</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/django-auth">Django Auth</a> (DH)</td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/lists_and_ranges_pylab">Python Lists & Ranges Lab</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/codebar">Lab: Codebar</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/sql-airplane-lab">Lab: SQL Airplane</a> (KB)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/scribble">Django Scribble: Models</a> (DH)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/django-auth">Django Auth</a> (DH)</td>
+</tr>
+
+<tr><td>Homework</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/python-koans">Python Koans</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/codebar">Lab: Codebar</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/psql-carmen-san-diego-lab">SQL Carmen Sandiego</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/scribble-templates">Django Scribble: Templates</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/django-auth">Django Auth</a></td>
+</tr></tbody></table>
+
 ## Week 8 - More React!
 <table>
 <thead>
