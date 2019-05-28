@@ -29,7 +29,7 @@
 </tr>
 
 <tr><td>10:30 - 12:30pm</td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-03">Project 3 Wrap-up/Presentations</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-03">Project 3 Wrap-up/Presentations (11:00am)</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
