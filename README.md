@@ -22,10 +22,10 @@
 
 <tr><td>9:15 - 10:20am</td>
 <td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
-<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="#">Data Structure Research</a></td>
+<td id="D5M1"><a href="#">Data Structure Research</a></td>
+<td id="D5M1"><a href="#">Data Structure Research</a></td>
+<td id="D5M1"><a href="#">Data Structure Research</a></td>
 </tr>
 
 <tr><td>10:30 - 12:30pm</td>
