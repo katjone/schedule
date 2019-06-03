@@ -7,6 +7,59 @@
 - <a href="https://git.generalassemb.ly/sf-sei-1/installfest">Installfest</a>
 
 
+## Week 12 - Final Project!
+<table>
+<thead>
+<tr><td>Time</td>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>9:15 - 10:20am</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+</tr>
+
+<tr><td>10:30 - 12:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a> / Outcomes (11am)</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+</tr>
+
+<tr><td>1:30 - 3:00pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+</tr>
+
+<tr><td>3:10 - 4:30pm</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+</tr>
+
+<tr><td>Homework</td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+<td id="D5M1"><a href="https://git.generalassemb.ly/sf-sei-1/project-04">Final Project</a></td>
+</tr></tbody></table>
+
 ## Week 11 - Final Project!
 <table>
 <thead>
